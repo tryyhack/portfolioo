@@ -7,7 +7,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: ROCH ANTHONY
-    subtitle: hihi
+    subtitle: ''
     styles:
       self:
         height: auto
