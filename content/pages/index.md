@@ -154,7 +154,7 @@ sections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: 'Dis m''en plus '
           width: full
           isRequired: true
         - type: CheckboxFormControl
