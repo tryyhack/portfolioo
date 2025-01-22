@@ -159,7 +159,7 @@ sections:
           isRequired: true
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: Coche pour recevoir les mises a jours
           width: full
           isRequired: 'false'
       submitLabel: Send Message
