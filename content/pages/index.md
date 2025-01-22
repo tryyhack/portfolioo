@@ -140,7 +140,7 @@ sections:
           name: Votre nom
           label: Votre nom
           hideLabel: true
-          placeholder: Your name
+          placeholder: Votre nom
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
