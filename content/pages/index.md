@@ -86,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Expériences professionnelles
+    subtitle: Compétence
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
