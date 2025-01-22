@@ -138,7 +138,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Votre nom
-          label: Name
+          label: Votre nom
           hideLabel: true
           placeholder: Your name
           width: 1/2
