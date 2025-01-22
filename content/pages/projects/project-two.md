@@ -7,7 +7,7 @@ client: Test
 description: SO HARD
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/gallery-1.jpg
   altText: Project image
 ---
 
