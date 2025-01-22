@@ -162,7 +162,7 @@ sections:
           label: Coche pour recevoir les mises a jours
           width: full
           isRequired: 'false'
-      submitLabel: Send Message
+      submitLabel: Envoie du message
       elementId: contact-form
       styles:
         submitLabel:
