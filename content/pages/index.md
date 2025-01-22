@@ -51,7 +51,7 @@ sections:
 
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: The Section Title
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
