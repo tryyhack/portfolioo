@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     title: ROCH ANTHONY
     subtitle: ''
