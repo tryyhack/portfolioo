@@ -35,6 +35,20 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      Ancien routier, j'ai acquis rigueur, gestion du stress et autonomie.
+
+
+      Passionné d'informatique, j'ai obtenu un diplôme TSSR pour maîtriser les
+      systèmes et réseaux. 
+
+
+      Désireux de renforcer mes compétences, j'ai entamé une formation AIS afin
+      de me spécialiser en cybersécurité et répondre aux enjeux de la sécurité
+      informatique.
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
