@@ -73,7 +73,7 @@ sections:
         label: Supervision et Maintenance
         url: ''
       - type: Label
-        label: Pancakes
+        label: Développement et automatisation
         url: ''
       - type: Label
         label: C++
