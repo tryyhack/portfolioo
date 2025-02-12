@@ -61,6 +61,9 @@ sections:
         label: Administration des systèmes
         url: ''
       - type: Label
+        label: Label title
+        url: ''
+      - type: Label
         label: Gestion des réseaux
         url: ''
       - type: Label
