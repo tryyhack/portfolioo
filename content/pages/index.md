@@ -61,7 +61,7 @@ sections:
         label: Administration des systèmes
         url: ''
       - type: Label
-        label: React
+        label: Gestion des réseaux
         url: ''
       - type: Label
         label: Microsoft Office
