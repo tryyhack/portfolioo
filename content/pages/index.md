@@ -54,7 +54,7 @@ sections:
 
 
   - type: LabelsSection
-    title: COMPÉTENCES
+    title: COMPÉTENCES INFORMATIQUE
     subtitle: ''
     items:
       - type: Label
