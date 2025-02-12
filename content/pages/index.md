@@ -43,9 +43,13 @@ sections:
       systèmes et réseaux.
 
 
-      Désireux de renforcer mes compétences, j'ai entamé une formation AIS afin
-      de me spécialiser en cybersécurité et répondre aux enjeux de la sécurité
-      informatique.
+      Désireux de renforcer mes compétences, j'ai entamé une formation
+      Administrateur d'Infrastructures 
+
+
+      Sécurisées (AIS) afin de me spécialiser en cybersécurité et répondre aux
+      enjeux de la sécurité informatique.
+          
 
 
 
