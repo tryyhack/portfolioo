@@ -64,7 +64,7 @@ sections:
         label: Gestion des réseaux
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Sécurité informatique
         url: ''
       - type: Label
         label: Next.js
