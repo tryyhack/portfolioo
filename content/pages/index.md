@@ -70,7 +70,7 @@ sections:
         label: Virtualisation et Cloud
         url: ''
       - type: Label
-        label: Netlify
+        label: Supervision et Maintenance
         url: ''
       - type: Label
         label: Pancakes
