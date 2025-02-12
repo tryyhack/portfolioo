@@ -75,9 +75,6 @@ sections:
       - type: Label
         label: Développement et automatisation
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
