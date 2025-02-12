@@ -54,7 +54,7 @@ sections:
 
 
   - type: LabelsSection
-    title: Skills
+    title: COMPÉTENCES
     subtitle: The section subtitle
     items:
       - type: Label
