@@ -58,7 +58,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Administration des systèmes
         url: ''
       - type: Label
         label: React
