@@ -67,7 +67,7 @@ sections:
         label: Sécurité informatique
         url: ''
       - type: Label
-        label: Next.js
+        label: Virtualisation et Cloud
         url: ''
       - type: Label
         label: Netlify
